@@ -44,4 +44,6 @@ export default function Currency() {
             <h1 id="result">{result}</h1>
         </div>
     )
+
+
 }
